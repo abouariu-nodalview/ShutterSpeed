@@ -1,0 +1,14 @@
+//
+//  ShutterSpeed-Prefix.pch
+//  ShutterSpeed
+//
+//  Created by Andrei Bouariu on 18/01/2021.
+//
+
+#ifndef ShutterSpeed_Prefix_pch
+#define ShutterSpeed_Prefix_pch
+
+// Enums
+#import "CameraEnums.h"
+
+#endif /* ShutterSpeed_Prefix_pch */
